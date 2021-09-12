@@ -1,2 +1,2 @@
 # Snake
-Snake game for stejs.cz
+Snake Game in JavaScript
